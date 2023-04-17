@@ -1,0 +1,4 @@
+tile_set: "/Resources/Sprites/Player/Player.atlas"
+default_animation: "Idle"
+material: "/builtins/materials/sprite.material"
+blend_mode: BLEND_MODE_ALPHA
